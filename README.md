@@ -22,9 +22,8 @@ WoodyCraft est une boutique en ligne fictive permettant de mettre en pratique le
 
 ##  Technologies utilisées
 
-- **PHP 8+**  
 - **Laravel 10**  
-- **MySQL** (base de données relationnelle)  
+- **HeidiSQL** (base de données relationnelle)  
 - **TailwindCSS** / **Bootstrap** (front-end)  
 - **Blade** (moteur de template Laravel)  
 - **Composer** & **npm** pour la gestion des dépendances  
